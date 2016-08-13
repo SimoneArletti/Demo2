@@ -14,6 +14,7 @@
 		FC48FDA61D5F105B00829D57 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC48FDA41D5F105B00829D57 /* LaunchScreen.storyboard */; };
 		FC48FDB11D5F105B00829D57 /* Demo2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC48FDB01D5F105B00829D57 /* Demo2Tests.swift */; };
 		FC48FDBC1D5F105B00829D57 /* Demo2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC48FDBB1D5F105B00829D57 /* Demo2UITests.swift */; };
+		FC48FDCA1D5F134A00829D57 /* File1test.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC48FDC91D5F134A00829D57 /* File1test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		FC48FDB71D5F105B00829D57 /* Demo2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Demo2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC48FDBB1D5F105B00829D57 /* Demo2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo2UITests.swift; sourceTree = "<group>"; };
 		FC48FDBD1D5F105B00829D57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC48FDC91D5F134A00829D57 /* File1test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File1test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				FC48FD9B1D5F105B00829D57 /* AppDelegate.swift */,
 				FC48FD9D1D5F105B00829D57 /* ViewController.swift */,
+				FC48FDC91D5F134A00829D57 /* File1test.swift */,
 				FC48FD9F1D5F105B00829D57 /* Main.storyboard */,
 				FC48FDA21D5F105B00829D57 /* Assets.xcassets */,
 				FC48FDA41D5F105B00829D57 /* LaunchScreen.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC48FDCA1D5F134A00829D57 /* File1test.swift in Sources */,
 				FC48FD9E1D5F105B00829D57 /* ViewController.swift in Sources */,
 				FC48FD9C1D5F105B00829D57 /* AppDelegate.swift in Sources */,
 			);
